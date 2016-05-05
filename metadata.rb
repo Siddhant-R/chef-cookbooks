@@ -8,3 +8,5 @@ version '0.1.0'
 
 depends 'selinux', '~> 0.9.0'
 depends 'firewall', '~> 2.5.0'
+depends 'httpd', '~> 0.3.6'
+
