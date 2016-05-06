@@ -1,0 +1,7 @@
+name 'devl-test-stack'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures devl-test-stack'
+long_description 'Installs/Configures devl-test-stack'
+version '0.1.0'
