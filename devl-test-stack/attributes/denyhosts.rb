@@ -1,11 +1,5 @@
-#
-# Cookbook Name:: denyhosts
-# Recipe:: default
-#
-# Copyright 2012-2014, North County Tech Center, LLC
-#
-# All rights reserved - Do Not Redistribute
-#
+#denyhosts attributes
+#@sid 06 MAY 16
 
 default['denyhosts']['config'] = {
 "SECURE_LOG" => "/var/log/secure",
