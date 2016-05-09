@@ -5,4 +5,5 @@
 # Copyright (c) 2016 The Authors, All Rights Reserved.
 #
 include_recipe 'denyhosts::default'
+include_recipe 'emacs::default'
 

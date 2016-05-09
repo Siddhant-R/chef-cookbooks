@@ -6,7 +6,8 @@ description 'Installs/Configures devl-test-stack'
 long_description 'Installs/Configures devl-test-stack'
 version '0.1.0'
 
-#Deny-Hosts
+
 depends "yum-epel"
 depends "denyhosts"
+depends 'emacs', '~> 0.10.0'
 
