@@ -8,4 +8,5 @@ version '0.1.0'
 
 #Deny-Hosts
 depends "yum-epel"
+depends "denyhosts"
 
