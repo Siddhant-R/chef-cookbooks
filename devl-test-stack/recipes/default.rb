@@ -7,3 +7,4 @@
 include_recipe 'denyhosts::default'
 include_recipe 'emacs::default'
 include_recipe 'erlang::default'
+include_recipe 'ant::install_package'

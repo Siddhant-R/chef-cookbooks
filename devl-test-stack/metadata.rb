@@ -11,4 +11,4 @@ depends "yum-epel"
 depends "denyhosts"
 depends 'emacs', '~> 0.10.0'
 depends 'erlang', '~> 3.0.0'
-
+depends 'ant', '~> 1.0.3'
